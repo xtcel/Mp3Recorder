@@ -1,0 +1,5 @@
+﻿  StdAfx.cpp
+  mp3_stream.cpp
+C:\Users\CaiDan\Desktop\workspace\mp3_stream_src\INCLUDE\waveIN_simple.h(734,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\CaiDan\Desktop\workspace\mp3_stream_src\mp3_stream.cpp(22,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  mp3_stream.vcxproj -> C:\Users\CaiDan\Desktop\workspace\mp3_stream_src\.\Release\mp3_stream.exe
